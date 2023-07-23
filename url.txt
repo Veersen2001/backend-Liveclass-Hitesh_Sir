@@ -1,8 +1,0 @@
-// if we take online database from atlas mangoos
-mongodb+srv://<VeerSen>:<Veersen@123>@cluster0.8ggztix.mongodb.net/todoapp
-
-
-// if we take ofline database then how o connect database on localhofa-stack
-mongodb://localhost:27017/exampleDb 
-
-here exampleDb name of the applicatioj
